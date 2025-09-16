@@ -15,6 +15,7 @@ An interactive map to track places you have visited or want to visit, built usin
 
 bash
 pip install ipyleaflet ipywidgets
+
 Note: Make sure you are using a Jupyter environment (Notebook or Lab) to run the map.
 
 ## Usage
