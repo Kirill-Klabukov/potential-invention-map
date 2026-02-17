@@ -1,4 +1,4 @@
-# Potential Invention / Travel Pins Map
+#Travel Pins Map
 
 An interactive map to track places you have visited or want to visit, built using `ipyleaflet` and `ipywidgets` in Python. Pins can be added, updated, and deleted directly on the map, with persistent storage in a JSON file.
 
